@@ -1,0 +1,22 @@
+h1 {
+	text-align: center;
+}
+footer {
+	text-align: center;
+}
+section {
+	text-align: center;
+}
+.p {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 1.3em;
+}
+body {
+	text-align: center;
+}
+html {
+	
+		background-image: url("/bg.jpg");
+}
